@@ -1,0 +1,25 @@
+<!-- https://codepen.io/RwwL/pen/qdqQGe -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        
+      ]]>
+    </style>
+  </defs>
+  
+  <path  d="
+    M 240.000 260.000
+    L 263.511 272.361
+    L 259.021 246.180
+    L 278.042 227.639
+    L 251.756 223.820
+    L 240.000 200.000
+    L 228.244 223.820
+    L 201.958 227.639
+    L 220.979 246.180
+    L 216.489 272.361
+    L 240.000 260.000
+  "/>
+  
+</svg>
